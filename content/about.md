@@ -9,12 +9,18 @@ in the Department of Business Mathematics and Data Science.
 
 My research is in empirical macroeconomics and financial econometrics.
 
+##### Professional Experience
+
++ PhD candidate, University of Hohenheim, since 2022
++ PhD intern, Macroeconomic Analysis and Projections Division, Deutsche Bundesbank, 2025
++ Research assistant, University of Tübingen, 2022
+
 ##### Education
 
-+ Ph.D. candidate in Economics, University of Hohenheim, since 2022
-+ M.Sc. International Economics, University of Tuebingen, 2022
++ M.Sc. International Economics, University of Tübingen, 2022
 + B.Sc. Economics, University of Mannheim, 2020
 
 ##### Contact
 
 + [javier.pena@uni-hohenheim.de](mailto:javier.pena@uni-hohenheim.de)
++ [University profile](https://datascience.uni-hohenheim.de/en/javierpenavaqueromsc)

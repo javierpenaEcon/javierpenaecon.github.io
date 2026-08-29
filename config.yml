@@ -1,12 +1,10 @@
 ##############################################################################
 # Javier Pena - website configuration
-# Filled in from your CV. Two things still need you:
-#   1. Replace USERNAME (2 places) with your GitHub username.
-#   2. Check the homepage text below sounds like you.
 # Indentation must be SPACES, never tabs.
+# Pages live in content/ as about.md, research.md, teaching.md.
 ##############################################################################
 
-# No square brackets in this line - a bracket here breaks the whole build.
+# A square bracket in this line breaks the whole build.
 baseURL: "https://javierpenaecon.github.io/"
 
 title: Javier Pena
@@ -17,23 +15,17 @@ enableRobotsTXT: true
 pagination:
   pagerSize: 20
 
-taxonomies:
-    tag: tags
-
 menu:
     main:
-        - name: Research
-          url: papers/
-          weight: 1
-        - name: Teaching
-          url: courses/
-          weight: 2
         - name: About
-          url: cv/
+          url: about/
+          weight: 1
+        - name: Research
+          url: research/
+          weight: 2
+        - name: Teaching
+          url: teaching/
           weight: 3
-        - name: News
-          url: news/
-          weight: 4
 
 params:
     description: "Javier Pena, PhD candidate in economics at the University of Hohenheim."
@@ -50,7 +42,6 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: [papers, courses]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -70,14 +61,12 @@ params:
           # imageHeight: 160
           # imageTitle: Javier Pena
           buttons:
-            - name: Research
-              url: papers/
-            - name: Teaching
-              url: courses/
             - name: About
-              url: cv/
-            - name: News
-              url: news/
+              url: about/
+            - name: Research
+              url: research/
+            - name: Teaching
+              url: teaching/
 
     socialIcons:
         # Put your trimmed CV in static/cv.pdf, then uncomment these two lines.
