@@ -36,7 +36,7 @@ menu:
           weight: 4
 
 params:
-    description: "Javier Pena is a PhD candidate in economics at the University of Hohenheim, working on empirical macroeconomics, carbon pricing and financial econometrics."
+    description: "Javier Pena, PhD candidate in economics at the University of Hohenheim."
     author: Javier Pena
     DateFormat: "January 2006"
     defaultTheme: light
@@ -63,11 +63,12 @@ params:
     profileMode:
           enabled: true
           title: Javier Pena
-          subtitle: "I am a PhD candidate in economics at the **University of Hohenheim**, in the Department of Business Mathematics and Data Science. <br> <br> My research is in **empirical macroeconomics** and **financial econometrics**. I work on the macroeconomic effects of **carbon pricing**, on **identification in structural VAR models**, and on the behaviour of safe haven assets. In 2025 I was a PhD intern in the Macroeconomic Analysis and Projections Division of the **Deutsche Bundesbank**."
-          imageUrl: picture.jpg
-          imageWidth: 160
-          imageHeight: 160
-          imageTitle: Javier Pena
+          subtitle: "I am a PhD candidate in economics at the **University of Hohenheim**. <br> <br> I work on empirical macroeconomics and financial econometrics."
+          # Photo: save a square picture.jpg in static/, then uncomment these 4 lines.
+          # imageUrl: picture.jpg
+          # imageWidth: 160
+          # imageHeight: 160
+          # imageTitle: Javier Pena
           buttons:
             - name: Research
               url: papers/
