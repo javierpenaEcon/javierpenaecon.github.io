@@ -1,5 +1,15 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+##############################################################################
+# Javier Pena - website configuration
+# Filled in from your CV. Two things still need you:
+#   1. Replace USERNAME (2 places) with your GitHub username.
+#   2. Check the homepage text below sounds like you.
+# Indentation must be SPACES, never tabs.
+##############################################################################
+
+# No square brackets in this line - a bracket here breaks the whole build.
+baseURL: "https://javierpenaecon.github.io/"
+
+title: Javier Pena
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -12,27 +22,23 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
+        - name: Research
           url: papers/
-          weight: 2
-        - name: Courses
+          weight: 1
+        - name: Teaching
           url: courses/
+          weight: 2
+        - name: About
+          url: cv/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        - name: News
+          url: news/
+          weight: 4
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
-    # googleAnalyticsID: G-XXXXX
-    DateFormat: January 2006
+    description: "Javier Pena is a PhD candidate in economics at the University of Hohenheim, working on empirical macroeconomics, carbon pricing and financial econometrics."
+    author: Javier Pena
+    DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
@@ -44,7 +50,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: [books, courses, papers, data]
+    MainSections: [papers, courses]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -52,52 +58,36 @@ params:
     UseHugoToc: true
     comments: false
     math: true
+
+    # THE HOMEPAGE. <br> is a line break, **word** makes bold.
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: picture.jpeg
+          title: Javier Pena
+          subtitle: "I am a PhD candidate in economics at the **University of Hohenheim**, in the Department of Business Mathematics and Data Science. <br> <br> My research is in **empirical macroeconomics** and **financial econometrics**. I work on the macroeconomic effects of **carbon pricing**, on **identification in structural VAR models**, and on the behaviour of safe haven assets. In 2025 I was a PhD intern in the Macroeconomic Analysis and Projections Division of the **Deutsche Bundesbank**."
+          imageUrl: picture.jpg
           imageWidth: 160
           imageHeight: 160
+          imageTitle: Javier Pena
           buttons:
-            - name: Papers
+            - name: Research
               url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
+            - name: Teaching
               url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: About
+              url: cv/
+            - name: News
+              url: news/
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
+        # Put your trimmed CV in static/cv.pdf, then uncomment these two lines.
+        # - name: CV
+        #   url: cv.pdf
         - name: Email
-          url: mailto:user@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/user
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=user
+          url: "mailto:javier.pena@uni-hohenheim.de"
+        # - name: Google Scholar
+        #   url: "https://scholar.google.com/citations?user=YOUR_ID"
         - name: GitHub
-          url: https://github.com/user
-        - name: YouTube
-          url: https://www.youtube.com/@user
-        - name: Substack
-          url: https://user.substack.com
-        - name: Twitter
-          url: https://x.com/user
-        - name: Bluesky
-          url: https://bsky.app/profile/user.bsky.social
+          url: "https://github.com/javierpenaEcon"
 
     assets:
         disableScrollBarStyle: true
@@ -105,7 +95,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: Moritz-Maria von Igelfeld
+      text: Javier Pena
       icon: favicon.ico
       iconHeight: 18
 
@@ -115,7 +105,7 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: autumn 
+        style: autumn
     tableOfContents:
         endLevel: 2
         ordered: false
