@@ -14,4 +14,7 @@ description: "Teaching by Javier Pena."
 
 ##### Supervision
 
-+ Bachelor's and master's theses
++ Bachelor's theses
++ Master's theses
+    + Please get in touch if you are interested in a topic on identifying the
+      effects of macroeconomic shocks, or on causal inference with VARs.

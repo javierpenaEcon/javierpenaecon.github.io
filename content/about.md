@@ -7,13 +7,13 @@ description: "Javier Pena, PhD candidate in economics at the University of Hohen
 I am a PhD candidate in economics at the [University of Hohenheim](https://www.uni-hohenheim.de),
 in the Department of Business Mathematics and Data Science.
 
-My research is in empirical macroeconomics and financial econometrics.
+My research is in empirical macroeconomics, financial econometrics and time series econometrics.
 
 ##### Professional Experience
 
 + PhD candidate, University of Hohenheim, since 2022
-+ PhD intern, Macroeconomic Analysis and Projections Division, Deutsche Bundesbank, 2025
-+ Research assistant, University of Tübingen, 2022
++ PhD intern, Deutsche Bundesbank, six months in 2025
++ Research assistant to Prof. Gernot Müller, University of Tübingen, 2022
 
 ##### Education
 
