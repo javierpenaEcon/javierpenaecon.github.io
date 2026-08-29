@@ -78,6 +78,8 @@ params:
         #   url: "https://scholar.google.com/citations?user=YOUR_ID"
         - name: GitHub
           url: "https://github.com/javierpenaEcon"
+        - name: LinkedIn
+          url: "https://www.linkedin.com/in/javier-pena-9a85bb19a/"
 
     assets:
         disableScrollBarStyle: true
