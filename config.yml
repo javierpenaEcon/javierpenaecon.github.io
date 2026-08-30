@@ -55,11 +55,10 @@ params:
           enabled: true
           title: Javier Pena
           subtitle: "I am a PhD candidate in economics at the **University of Hohenheim**. <br> <br> I work on empirical macroeconomics, financial econometrics and time series econometrics."
-          # Photo: save a square picture.jpg in static/, then uncomment these 4 lines.
-          # imageUrl: picture.jpg
-          # imageWidth: 160
-          # imageHeight: 160
-          # imageTitle: Javier Pena
+          imageUrl: picture.jpg
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: Javier Pena
           buttons:
             - name: About
               url: about/
