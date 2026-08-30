@@ -9,6 +9,7 @@ description: "Research by Javier Pena."
 + Baur, Dirk G., Thomas Dimpfl and Javier Pena (2025). "A Safe Haven Index."
   *Finance Research Letters* 85, Part B, 107922.
   [\[link\]](https://doi.org/10.1016/j.frl.2025.107922)
+  [\[data\]](https://datascience.uni-hohenheim.de/en/applications)
 
 ##### Work in Progress
 

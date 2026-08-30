@@ -4,8 +4,8 @@ hidemeta: true
 description: "Javier Pena, PhD candidate in economics at the University of Hohenheim."
 ---
 
-I am a PhD candidate in economics at the [University of Hohenheim](https://www.uni-hohenheim.de),
-in the Department of Business Mathematics and Data Science.
+I am a PhD candidate in economics at the University of Hohenheim, in the
+[Department of Business Mathematics and Data Science](https://datascience.uni-hohenheim.de/en/english).
 
 My research is in empirical macroeconomics, financial econometrics and time series econometrics.
 
