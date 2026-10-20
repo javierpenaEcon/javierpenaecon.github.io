@@ -24,3 +24,4 @@ My research is in empirical macroeconomics, financial econometrics and time seri
 
 + [javier.pena@uni-hohenheim.de](mailto:javier.pena@uni-hohenheim.de)
 + [University profile](https://datascience.uni-hohenheim.de/en/javierpenavaqueromsc)
++ [CV (PDF)](/cv.pdf)
