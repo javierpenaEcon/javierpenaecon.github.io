@@ -68,9 +68,8 @@ params:
               url: teaching/
 
     socialIcons:
-        # Put your trimmed CV in static/cv.pdf, then uncomment these two lines.
-        # - name: CV
-        #   url: cv.pdf
+        - name: CV
+          url: "/cv.pdf"
         - name: Email
           url: "mailto:javier.pena@uni-hohenheim.de"
         # - name: Google Scholar
