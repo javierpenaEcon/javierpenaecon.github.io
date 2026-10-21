@@ -11,9 +11,12 @@ description: "Research by Javier Pena."
   [\[link\]](https://doi.org/10.1016/j.frl.2025.107922)
   [\[data\]](https://datascience.uni-hohenheim.de/en/applications)
 
-##### Work in Progress
+##### Working Papers
 
 + "Every Day Counts: Dense EUA Supply Shocks from Asset Prices," with Michael Kleemann
+
+##### Work in Progress
+
 + "Identifying VAR Models Using Time-to-Peak-Effect Restrictions," with Markus Kontny
 
 Drafts available on request.
