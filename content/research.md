@@ -14,6 +14,7 @@ description: "Research by Javier Pena."
 ##### Working Papers
 
 + "Every Day Counts: Dense EUA Supply Shocks from Asset Prices," with Michael Kleemann
+  [\[pdf\]](/KP_EUA_2026.pdf)
 
 ##### Work in Progress
 
