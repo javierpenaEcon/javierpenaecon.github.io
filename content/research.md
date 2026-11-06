@@ -18,6 +18,6 @@ description: "Research by Javier Pena."
 
 ##### Work in Progress
 
-+ "Identifying VAR Models Using Time-to-Peak-Effect Restrictions," with Markus Kontny
++ "Time-to-Peak Restrictions in Structural VARs," with Markus Kontny
 
 Drafts available on request.
